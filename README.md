@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Mohamed2820/Mohamed2820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mohamed Hisham
 
-Here are some ideas to get you started:
+## 💻 About Me
+- Learning Python & Linux
+- Building real-world projects
+- Improving daily
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Termux & Debian
+- Git & GitHub
+- Practical coding
+
+## 📈 Goal
+- Become a professional developer
